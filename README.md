@@ -5,10 +5,12 @@ I am cuurently pursuing my Bachelors of Engineering in ELectronics and Computer 
 I am an passionate Java developer and an Technology enthusiast.<br>
 I am fascinated by the modern technology like computer networks,Artificial Intelligence and Data centers. I always look to learn these new technologies .
 
+e poursuis actuellement mes licences d’ingénierie en électronique et en génie informatique du collège moderne d’ingénierie PES, à Pune. 
+Je suis un développeur Java passionné et un passionné de technologie. <br>e suis fasciné par les technologies modernes telles que les réseaux informatiques, l’intelligence artificielle et les centres de données. Je cherche toujours à apprendre ces nouvelles technologies.
 
 ![](https://komarev.com/ghpvc/?username=RyArjun&label=PROFILE+VIEWS)
 
-<img align = "right" alt = "coding" width="400" padding="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
